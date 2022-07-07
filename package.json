@@ -5,7 +5,6 @@
   "scripts": {
     "start": "node ./lib/index.js"
   },
-  "type":"module",
   "author": "Ryan Olf",
   "license": "MIT",
   "dependencies": {
