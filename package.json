@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Use NFC tags to control Sonos - a node app inspired by and compatible with hankhank10/vinylemulator, with better NFC reader compatibility",
   "scripts": {
-    "start": "node ./lib/index.js"
+    "start": "node ./lib/ultralight.js"
   },
   "author": "Ryan Olf",
   "license": "MIT",
