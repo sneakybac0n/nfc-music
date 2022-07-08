@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "nfc-pcsc": "^0.8.0",
-    "nfccard-tool": "^0.1.1"
+    "nfccard-tool": "^0.1.1",
+    "node-fetch": "^3.2.6"
   }
 }
